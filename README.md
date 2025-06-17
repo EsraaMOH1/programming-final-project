@@ -1,5 +1,5 @@
 # programming-final-project
-# Flowchart Designer & Simulator – Final Project (Programming Techniques Phase 2)
+# Flowchart Designer & Simulator – Final Project (Programming Techniques Course)
 
 This is the final course project for the Programming Techniques course, developed by a Team. The project is a **flowchart designer and simulator**, implemented using **C++** with a strong focus on **Object-Oriented Programming (OOP)** principles.
 
@@ -49,8 +49,6 @@ This project was built in **Visual Studio** over several weeks during the semest
 | File/Folder | Description |
 |-------------|-------------|
 | `src/` | Source code for the application |
-| `bin/` | Compiled binaries |
-| `docs/` | Documentation or screenshots |
 | `README.md` | This file |
 
 ---
